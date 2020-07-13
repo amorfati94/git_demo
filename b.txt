@@ -1,0 +1,3 @@
+import tensorflow as tf
+
+x = tf.Variable(tf.random(0,0.5))
